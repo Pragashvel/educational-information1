@@ -3,7 +3,12 @@ package org.edu;
 public class Arts extends Education {
 	public void bsc() {
 		System.out.println("Physics");
+
 		System.out.println("botany");
+
+		System.out.println("tamil");
+		
+
 	}
 	public void bEd() {
 		System.out.println("Chemistry");
